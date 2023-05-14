@@ -17,4 +17,4 @@
   
   </div>
   
-![Giselle GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={giselleschwab}&theme=dracula)
+![Giselle GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=giselleschwab&theme=dracula)
