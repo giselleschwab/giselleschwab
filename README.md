@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Giselle Schwab Silva
 
-- 🌱 Estudante de Desenvolvimento Web na Laboratoria
+- 🌱 Desenvolvedora Web Front-End
 - 😄 Pronome: ela/dela.
 
 #### Onde me encontrar: 
